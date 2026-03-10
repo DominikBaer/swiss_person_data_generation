@@ -1,0 +1,16 @@
+{
+  "name": "bund_data_generation",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "extract_lastnames.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^10.3.0"
+  }
+}

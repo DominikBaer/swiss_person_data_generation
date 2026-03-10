@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Generated data files
+output/*.csv
+unique_lastnames.json
+swiss_locations.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
